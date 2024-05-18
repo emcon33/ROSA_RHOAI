@@ -1,0 +1,12 @@
+task_description: 'Managed OpenShift Cloud Services' 
+created_by: emcon33
+seed_examples: Managed OpenShift, ROSA, ROSA on AWS, ARO, OSD-GCP 
+  - question: What is ROSA
+    answer: |
+      ROSA is the Red Hat OpenShift Managed Service delivered as joint offering by AWS and Red Hat as a console service in AWS. It supports a turnkey application platform experience for developers. 
+  - context: |
+      
+    question: What is ARO
+    answer: |
+      ROSA is the Red Hat OpenShift Managed Service delivered as joint offering by Azure and Red Hat as a console service in Azure. It supports a turnkey application platform experience for developers.  
+  ...
